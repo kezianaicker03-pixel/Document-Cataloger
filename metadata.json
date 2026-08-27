@@ -1,0 +1,6 @@
+{
+  "name": "Document Cataloger",
+  "description": "Monitors Google Drive 'Incoming Invoices' folder, extracts invoice data with Gemini, and logs structured rows into Google Sheets 'Invoice Tracker'.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
